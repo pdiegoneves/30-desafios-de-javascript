@@ -1,0 +1,12 @@
+{
+  "name": "02-procedimento-recursivo-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.2.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
